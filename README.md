@@ -1,1 +1,1 @@
-# JavaVe-ba
+# JavaPractice
