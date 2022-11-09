@@ -1,2 +1,3 @@
 # JavaPractice
-In this task, I made a console application in which I used java oop.
+
+A console application made in the Java OOP language. It is used to enter various data, delete data, change data, search data by date....
